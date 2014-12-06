@@ -8,7 +8,7 @@ Requirements
 
 How to setup
 ---------------
-In kyoto_wifi02 root directory, command below
+In kyoto_wifi02 root directory, perform the following.
 ```
 virtualenv env  
 source ./env/bin/activate  
